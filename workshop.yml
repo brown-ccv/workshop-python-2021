@@ -1,0 +1,17 @@
+name: workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.8
+  - matplotlib=3.3.2
+  - pandas=1.2.4
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_server
+  - ipywidgets
+  - jupytext
+  - rise
+prefix: /opt/conda
+
