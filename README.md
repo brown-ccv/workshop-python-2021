@@ -9,7 +9,7 @@ We provide an yaml file which you can use with conda to recreate the python envi
 
 *conda activate workshop_env*
 
-Alternatively, you can also use the jupyter hub to run the materials. Click on [http://ccv.jupyter.brown.edu/](http://ccv.jupyter.brown.edu/) and log in with your Brown ID. Once the jupyter-lab starts (it could take a couple of minutes), click on the 'Git Clone' button on the left side and copy the URL of this repo in there. Once the cloning is completed, you should see the week1-4 folders and the ipython notebooks.
+Alternatively, you can also use the jupyter hub to run the materials. Click on [http://ccv.jupyter.brown.edu/](http://ccv.jupyter.brown.edu/) and log in with your Brown ID. Once the jupyter-lab starts (it could take a couple of minutes), click on the 'Git Clone' button on the left side and copy the URL of this repo in there. Once the cloning is completed, you should see the week 1-4 folders and the ipython notebooks.
 
 ## Links to materials
 
