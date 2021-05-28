@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="120" height="225">
+<defs>
+<radialGradient id="r" gradientUnits="objectBoundingBox" cx="0.33" cy="0.33" r="1">
+  <stop offset="0%" stop-color="#fff" />
+  <stop offset="30%" stop-color="#f88" />
+  <stop offset="60%" stop-color="#f00" />
+  <stop offset="100%" stop-color="#900" />
+</radialGradient>
+<radialGradient id="g" gradientUnits="objectBoundingBox" cx="0.33" cy="0.33" r="1">
+  <stop offset="0%" stop-color="#fff" />
+  <stop offset="30%" stop-color="#6c6" />
+  <stop offset="60%" stop-color="#0a0" />
+  <stop offset="100%" stop-color="#060" />
+</radialGradient>
+<radialGradient id="b" gradientUnits="objectBoundingBox" cx="0.33" cy="0.33" r="1">
+  <stop offset="0%" stop-color="#fff" />
+  <stop offset="30%" stop-color="#88f" />
+  <stop offset="60%" stop-color="#44e" />
+  <stop offset="100%" stop-color="#22c" />
+</radialGradient>
+</defs>
+<circle cx="25" cy="25" r="15" style="fill:url(#r)" />
+<circle cx="60" cy="25" r="15" style="fill:url(#g)" />
+<circle cx="95" cy="25" r="15" style="fill:url(#b)" />
+<circle cx="25" cy="60" r="15" style="fill:url(#r)" />
+<circle cx="60" cy="60" r="15" style="fill:url(#b)" />
+<circle cx="95" cy="60" r="15" style="fill:url(#g)" />
+<circle cx="25" cy="95" r="15" style="fill:url(#g)" />
+<circle cx="60" cy="95" r="15" style="fill:url(#r)" />
+<circle cx="95" cy="95" r="15" style="fill:url(#b)" />
+<circle cx="25" cy="130" r="15" style="fill:url(#g)" />
+<circle cx="60" cy="130" r="15" style="fill:url(#b)" />
+<circle cx="95" cy="130" r="15" style="fill:url(#r)" />
+<circle cx="25" cy="165" r="15" style="fill:url(#b)" />
+<circle cx="60" cy="165" r="15" style="fill:url(#r)" />
+<circle cx="95" cy="165" r="15" style="fill:url(#g)" />
+<circle cx="25" cy="200" r="15" style="fill:url(#b)" />
+<circle cx="60" cy="200" r="15" style="fill:url(#g)" />
+<circle cx="95" cy="200" r="15" style="fill:url(#r)" />
+</svg>

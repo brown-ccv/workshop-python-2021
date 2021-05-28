@@ -1,0 +1,4 @@
+name,num_guests,paid
+Matt,0,yes
+Andras,10,no
+Ashley,5,yes
