@@ -17,7 +17,8 @@ The table below contains links to the lecture recordings.
 
 |       	| lecture 	| 
 |-------	|:-------:	|
-| day 1 - Introduction 	|   |
+| week 1 - day 1 - Introduction 	| watch video [here](https://drive.google.com/file/d/1yi-Vtj0-gL7AAZGagC4j6e050r1VMavS/view?usp=sharing)  |
+| | |
 
 ## Contact
 The instructors are Matt Slivinski (<matthew_slivinski@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
