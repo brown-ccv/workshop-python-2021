@@ -21,6 +21,7 @@ The table below contains links to the lecture recordings.
 | week 1 - day 2 - Variables | watch video [here](https://drive.google.com/file/d/1yihexUEK9DlmkxCQhfKmu5cAz0pRzf29/view?usp=sharing) |
 | week 1 - day 3 - Lists | watch video [here](https://drive.google.com/file/d/1yj6GdagCOsnj4RpwFDjO8ezwiwnHxTNz/view?usp=sharing) |
 | week 1 - day 4 - Dictionaries | watch video [here](https://drive.google.com/file/d/1yorIoUL7qpzcz6-Ui_VLlWA7Kzj89j_L/view?usp=sharing) |
+| week 1 - day 5 - If statements | watch video [here](https://drive.google.com/file/d/1ysm1a9YDHTHjM_NjP0yB8nEmKjFyvxVn/view?usp=sharing) |
 
 ## Contact
 The instructors are Matt Slivinski (<matthew_slivinski@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
