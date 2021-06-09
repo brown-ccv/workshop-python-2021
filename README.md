@@ -23,6 +23,8 @@ The table below contains links to the lecture recordings.
 | week 1 - day 4 - Dictionaries | watch video [here](https://drive.google.com/file/d/1yorIoUL7qpzcz6-Ui_VLlWA7Kzj89j_L/view?usp=sharing) |
 | week 1 - day 5 - If statements | watch video [here](https://drive.google.com/file/d/1ysm1a9YDHTHjM_NjP0yB8nEmKjFyvxVn/view?usp=sharing) |
 | week 2 - day 1 - For loops | watch video [here](https://drive.google.com/file/d/1UEi0GhzkJyLagQmRoLVY0ZwejdRtCbdQ/view?usp=sharing) |
+| week 2 - day 2 - Combined for loops and if statements | watch video [here](https://drive.google.com/file/d/17bLo5fmKHKXJJx55OIDYql2N49aZMEGK/view?usp=sharing) |
+
 
 ## Contact
 The instructors are Matt Slivinski (<matthew_slivinski@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
