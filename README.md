@@ -27,6 +27,7 @@ The table below contains links to the lecture recordings.
 | week 2 - day 3 - Functions | watch video [here](https://drive.google.com/file/d/19rrY5oieylXrY780Hva88D-O9ZX4UPK1/view?usp=sharing) |
 | week 2 - day 4 - Code testing | watch video [here](https://drive.google.com/file/d/1kwByOZi6JW-TwV8Ay6wjktgcXkUJ1_q8/view?usp=sharing) |
 | week 3 - day 1 - Collections and itertools | watch video [here](https://drive.google.com/file/d/1njKhGgUlHxVRYc-EQbPMyMeMAcivirtk/view?usp=sharing) |
+| week 3 - day 2 - Itertools, input/output, reading and writing files | watch video [here](https://drive.google.com/file/d/1mfpCxEAAGkMGW8FtWzuUuHg8q9KDPorK/view?usp=sharing) |
 
 
 
