@@ -22,6 +22,14 @@ The table below contains links to the lecture recordings.
 | week 1 - day 3 - Lists | watch video [here](https://drive.google.com/file/d/1yj6GdagCOsnj4RpwFDjO8ezwiwnHxTNz/view?usp=sharing) |
 | week 1 - day 4 - Dictionaries | watch video [here](https://drive.google.com/file/d/1yorIoUL7qpzcz6-Ui_VLlWA7Kzj89j_L/view?usp=sharing) |
 | week 1 - day 5 - If statements | watch video [here](https://drive.google.com/file/d/1ysm1a9YDHTHjM_NjP0yB8nEmKjFyvxVn/view?usp=sharing) |
+| week 2 - day 1 - For loops | watch video [here](https://drive.google.com/file/d/1UEi0GhzkJyLagQmRoLVY0ZwejdRtCbdQ/view?usp=sharing) |
+| week 2 - day 2 - Combined for loops and if statements | watch video [here](https://drive.google.com/file/d/17bLo5fmKHKXJJx55OIDYql2N49aZMEGK/view?usp=sharing) |
+| week 2 - day 3 - Functions | watch video [here](https://drive.google.com/file/d/19rrY5oieylXrY780Hva88D-O9ZX4UPK1/view?usp=sharing) |
+| week 2 - day 4 - Code testing | watch video [here](https://drive.google.com/file/d/1kwByOZi6JW-TwV8Ay6wjktgcXkUJ1_q8/view?usp=sharing) |
+| week 3 - day 1 - Collections and itertools | watch video [here](https://drive.google.com/file/d/1njKhGgUlHxVRYc-EQbPMyMeMAcivirtk/view?usp=sharing) |
+| week 3 - day 2 - Itertools, input/output, reading and writing files | watch video [here](https://drive.google.com/file/d/1mfpCxEAAGkMGW8FtWzuUuHg8q9KDPorK/view?usp=sharing) |
+
+
 
 ## Contact
 The instructors are Matt Slivinski (<matthew_slivinski@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
