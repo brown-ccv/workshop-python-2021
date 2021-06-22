@@ -29,6 +29,7 @@ The table below contains links to the lecture recordings.
 | week 3 - day 1 - Collections and itertools | watch video [here](https://drive.google.com/file/d/1njKhGgUlHxVRYc-EQbPMyMeMAcivirtk/view?usp=sharing) |
 | week 3 - day 2 - Itertools, input/output, reading and writing files | watch video [here](https://drive.google.com/file/d/1mfpCxEAAGkMGW8FtWzuUuHg8q9KDPorK/view?usp=sharing) |
 | week 3 - day 3 - System interactions | watch video [here](https://drive.google.com/file/d/1RAxbK46Kv3Am5SRGHHSYWtykghcmSNAe/view?usp=sharing) |
+| week 3 - day 4 - Pattern matching, working with datetime variables, and archiving/pickling | watch video [here](https://drive.google.com/file/d/1pfGQkMO9q44Un-amb7slrhXx0H09DRSb/view?usp=sharing) |
 | week 4 - day 1 - Pandas | watch video [here](https://drive.google.com/file/d/1z1kr31LaFNzulHiWEtm9wMQ9ORTAXu1y/view?usp=sharing) |
 | week 4 - day 2 - Pandas | watch video [here](https://drive.google.com/file/d/1z461KJdvEV4TtZOWVNMNAxnPydx9nLIh/view?usp=sharing) |
 
