@@ -33,6 +33,9 @@ The table below contains links to the lecture recordings.
 | week 4 - day 1 - Pandas | watch video [here](https://drive.google.com/file/d/1z1kr31LaFNzulHiWEtm9wMQ9ORTAXu1y/view?usp=sharing) |
 | week 4 - day 2 - Pandas | watch video [here](https://drive.google.com/file/d/1z461KJdvEV4TtZOWVNMNAxnPydx9nLIh/view?usp=sharing) |
 | week 4 - day 3 - Visualizations | watch video [here](https://drive.google.com/file/d/1z7s8yMZu_pe5WH0ZLApH1vwBqKMGZuOp/view?usp=sharing) |
+| week 4 - day 4 - Visualizations | watch video [here](https://drive.google.com/file/d/1z8RMWlPpWf88aingTAXE7Nc9uWUbLcnz/view?usp=sharing) |
+
+
 
 ## Contact
 The instructors are Matt Slivinski (<matthew_slivinski@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
